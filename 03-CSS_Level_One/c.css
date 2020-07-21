@@ -1,0 +1,35 @@
+.Firstdiv{
+  color: red;
+}
+.Seconddiv{
+  color: blue;
+}
+#singledout{
+  color:green;
+  text-decoration: line-through;
+}
+*{
+  color:black;
+}
+/*using xasterix every elemnt affected bt if u have a id relted to something then id will overwrite */
+h3+ul{
+  border:4px dotted purple;
+}
+li a{
+  color: red;
+}
+li a[href="www.npr.org"]{
+  color: blue;
+  border: 5px solid orange
+}
+p::after{
+  content: "-Remember this"
+}
+p::first-line {
+  background-color: yellow;
+}
+
+
+
+/* }
+Styles for a directly targeted element will always take precedence over inherited styles, regardless of the specificity of the inherited rule. */

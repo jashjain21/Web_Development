@@ -1,0 +1,33 @@
+/* blue wala 7, 242, 203 */
+/* black wala 5, 4, 20 */
+/* yellow wala 255, 183, 0 */
+body{
+  background-color: rgb(7, 242, 203);
+  padding-top: 0px;
+  padding-bottom: 80px;
+  padding-right:60px;
+  padding-left:60px;
+
+}
+.core{
+color:white;
+background-color: rgb( 5, 4, 20 );
+text-align: center;
+padding-bottom: 10px;
+padding-top: 20px;
+padding-right:120px;
+padding-left:120px;
+}
+/* h1{
+  text-align: center;
+}
+h2{
+
+} */
+#sign{
+  width:100px;
+  height: 50px;
+  background-color: rgb(255, 183, 0);
+  border-radius: 7px;
+  margin-top: 10px;
+}

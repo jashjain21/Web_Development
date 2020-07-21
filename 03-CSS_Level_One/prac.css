@@ -1,0 +1,21 @@
+/*CSS*/
+div {
+  height: 200px;
+  width: 200px;
+}
+
+/*The Battle*/
+.blue {
+  background-color: blue;
+}
+
+.box {
+  background-color: red;
+}
+/*
+1.IDs
+
+2.Classes, attributes and pseudo-classes
+
+3.Elements and pseudo-elements
+*/

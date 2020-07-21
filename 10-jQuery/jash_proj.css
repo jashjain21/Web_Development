@@ -1,0 +1,17 @@
+body{
+  padding-top: 20px;
+  background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+td{
+  background-color: #0052cc;
+}
+.btn-circle.btn-xl {
+            width: 70px;
+            height: 70px;
+            padding: 10px 16px;
+            border-radius: 35px;
+            font-size: 12px;
+            text-align: center;
+            border:solid black 3px;
+            background-color: rgb(255, 255, 255);
+        }

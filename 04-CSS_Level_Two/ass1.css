@@ -1,0 +1,20 @@
+.outer{
+  background-color: rgb(7, 242, 203);
+
+  padding-right:80px;
+  padding-left:80px;
+  padding-bottom: 80px;
+  margin: 0px;
+}
+.one{
+color:white;
+background-color: rgb( 5, 4, 20 );
+text-align: center;
+padding-bottom: 10px;
+padding-top: 20px;
+padding-right:120px;
+padding-left:120px;
+}
+body{
+  background-color: rgb( 5, 4, 20 );
+}

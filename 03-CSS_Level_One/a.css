@@ -1,0 +1,15 @@
+/* selected tag{
+property: value;
+} */
+h1{
+  color:red;
+}
+li{
+  color:rgb(207, 119, 37);
+}
+p{
+ color: #4591de;
+}
+h4{
+  color:rgba(207, 119, 37,0.01)
+}
